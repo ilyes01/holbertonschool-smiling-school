@@ -1,4 +1,4 @@
-#Holbertonschool Smiling School 🎓
+# Holbertonschool Smiling School 🎓
 This project is a web development project from Holbertonschool students. In this project, you will implement 3 web pages using Bootstrap. The objective is to create fully functional web pages that look the same as the designer file.
 
 ### Requirements 📜
